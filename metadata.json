@@ -1,0 +1,9 @@
+{
+  "name": "Chamet Live - Video Call & Streaming",
+  "description": "Live streaming and 1-on-1 video calling web application with Agora Web SDK integration, real-time interactive chat, virtual gifts, and coin wallet.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
